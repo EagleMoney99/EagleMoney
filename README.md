@@ -1,0 +1,2 @@
+# EagleMoney
+The Next CryptoCurrency
